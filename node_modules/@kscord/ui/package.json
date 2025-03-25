@@ -1,0 +1,19 @@
+{
+  "name": "@kscord/ui",
+  "version": "1.0.0",
+  "main": "dist/index.ts",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/react": "^19.0.12",
+    "react": "^19.0.0",
+    "typescript": "^5.8.2"
+  }
+}

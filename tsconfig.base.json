@@ -1,0 +1,17 @@
+// tsconfig.base.json
+{
+    "compilerOptions": {
+      "target": "ESNext",
+      "moduleResolution": "Node",
+      "esModuleInterop": true,
+      "module": "ESNext",
+      "strict": true,
+      "baseUrl": ".",
+      "paths": {
+        "@kscord/types": ["packages/types/src"],
+        "@kscord/ui": ["packages/ui/dist"]
+
+      }
+    }
+  }
+  
