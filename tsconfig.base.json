@@ -8,7 +8,7 @@
       "strict": true,
       "baseUrl": ".",
       "paths": {
-        "@kscord/types": ["packages/types/src"],
+        "@kscord/types": ["apackages/types/src"],
         "@kscord/ui": ["packages/ui/dist"]
 
       }
